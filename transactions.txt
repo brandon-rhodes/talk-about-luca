@@ -1,0 +1,20 @@
+Date,Description,Amount
+2015-01-10,"Delta airlines",-520.00
+2015-01-21,"Delta airlines",-270.00
+2015-02-02,"Sushi House",-57.80
+2015-02-03,"The Brewhouse",-41.40
+2015-02-06,"Comfort Inn",-365.90
+2015-02-04,"Farmer Burger",-46.70
+2015-02-05,"Sushi House",-64.10
+2015-02-10,"Delta airlines",-610.00
+2015-02-20,"Japanese Garden",-60.50
+2015-02-21,"Impressive Beers",-39.80
+2015-02-22,"The Beer Garden",-35.50
+2015-02-23,"Sake Shack",-68.80
+2015-02-24,"Roadhouse Brewery",-48.10
+2015-02-24,"Economy Inn",-406.60
+2015-02-24,"The Brick Pub",-45.50
+2015-02-24,"Sashimi Road",-80.40
+2015-02-24,"Salmon Race",-45.10
+2015-02-24,"Sashimi Road",-65.50
+2015-02-24,"Comfort Inn",-390.30
